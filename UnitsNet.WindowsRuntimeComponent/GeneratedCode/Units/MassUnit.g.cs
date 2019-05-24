@@ -42,12 +42,6 @@ namespace UnitsNet.Units
         Kilotonne,
 
         /// <summary>
-        ///     The long or imperial hundredweight (abbreviation cwt) is a unit of mass equal to 112 pounds in US and Canada.
-        /// </summary>
-        /// <remarks>https://en.wikipedia.org/wiki/Hundredweight</remarks>
-        LongHundredweight,
-
-        /// <summary>
         ///     Long ton (weight ton or Imperial ton) is a unit of mass equal to 2,240 pounds (1,016 kg) and is the name for the unit called the "ton" in the avoirdupois or Imperial system of measurements that was used in the United Kingdom and several other Commonwealth countries before metrication.
         /// </summary>
         /// <remarks>http://en.wikipedia.org/wiki/Long_ton</remarks>

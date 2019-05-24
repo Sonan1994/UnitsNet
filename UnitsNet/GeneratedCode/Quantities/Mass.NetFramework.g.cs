@@ -59,7 +59,6 @@ namespace UnitsNet
                     new UnitInfo<MassUnit>(MassUnit.Kilogram, BaseUnits.Undefined),
                     new UnitInfo<MassUnit>(MassUnit.Kilopound, BaseUnits.Undefined),
                     new UnitInfo<MassUnit>(MassUnit.Kilotonne, BaseUnits.Undefined),
-                    new UnitInfo<MassUnit>(MassUnit.LongHundredweight, new BaseUnits(mass: MassUnit.LongHundredweight)),
                     new UnitInfo<MassUnit>(MassUnit.LongTon, new BaseUnits(mass: MassUnit.LongTon)),
                     new UnitInfo<MassUnit>(MassUnit.Megapound, BaseUnits.Undefined),
                     new UnitInfo<MassUnit>(MassUnit.Megatonne, BaseUnits.Undefined),
@@ -226,11 +225,6 @@ namespace UnitsNet
         ///     Get Mass in Kilotonnes.
         /// </summary>
         public double Kilotonnes => As(MassUnit.Kilotonne);
-
-        /// <summary>
-        ///     Get Mass in LongHundredweight.
-        /// </summary>
-        public double LongHundredweight => As(MassUnit.LongHundredweight);
 
         /// <summary>
         ///     Get Mass in LongTons.
@@ -406,15 +400,6 @@ namespace UnitsNet
         {
             double value = (double) kilotonnes;
             return new Mass(value, MassUnit.Kilotonne);
-        }
-        /// <summary>
-        ///     Get Mass from LongHundredweight.
-        /// </summary>
-        /// <exception cref="ArgumentException">If value is NaN or Infinity.</exception>
-        public static Mass FromLongHundredweight(QuantityValue longhundredweight)
-        {
-            double value = (double) longhundredweight;
-            return new Mass(value, MassUnit.LongHundredweight);
         }
         /// <summary>
         ///     Get Mass from LongTons.
@@ -935,7 +920,6 @@ namespace UnitsNet
                 case MassUnit.Kilogram: return (_value/1e3) * 1e3d;
                 case MassUnit.Kilopound: return (_value*0.45359237) * 1e3d;
                 case MassUnit.Kilotonne: return (_value*1e3) * 1e3d;
-                case MassUnit.LongHundredweight: return _value/0.01968413055222121;
                 case MassUnit.LongTon: return _value*1.0160469088e3;
                 case MassUnit.Megapound: return (_value*0.45359237) * 1e6d;
                 case MassUnit.Megatonne: return (_value*1e3) * 1e6d;
@@ -972,7 +956,6 @@ namespace UnitsNet
                 case MassUnit.Kilogram: return (baseUnitValue*1e3) / 1e3d;
                 case MassUnit.Kilopound: return (baseUnitValue/0.45359237) / 1e3d;
                 case MassUnit.Kilotonne: return (baseUnitValue/1e3) / 1e3d;
-                case MassUnit.LongHundredweight: return baseUnitValue*0.01968413055222121;
                 case MassUnit.LongTon: return baseUnitValue/1.0160469088e3;
                 case MassUnit.Megapound: return (baseUnitValue/0.45359237) / 1e6d;
                 case MassUnit.Megatonne: return (baseUnitValue/1e3) / 1e6d;

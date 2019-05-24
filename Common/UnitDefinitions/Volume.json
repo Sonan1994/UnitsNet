@@ -15,7 +15,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "l" ]
+          "Abbreviations": [ "l", "L" ]
         },
         {
           "Culture": "ru-RU",
@@ -33,7 +33,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "m³" ]
+          "Abbreviations": [ "m³", "m3" ]
         },
         {
           "Culture": "ru-RU",
@@ -145,7 +145,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "yd³" ]
+          "Abbreviations": [ "yd³", "CY", "yard³" ]
         },
         {
           "Culture": "ru-RU",
@@ -162,7 +162,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ft³" ]
+          "Abbreviations": [ "ft³", "ft3", "CF" ]
         },
         {
           "Culture": "ru-RU",
@@ -228,7 +228,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "gal (U.S.)" ]
+          "Abbreviations": [ "gal (U.S.)", "gal" ]
         },
         {
           "Culture": "ru-RU",
