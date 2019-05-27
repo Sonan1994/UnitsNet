@@ -53,8 +53,6 @@ namespace UnitsNet.Tests.CustomCode
 
         protected override double TonnesInOneKilogram => 1E-3;
 
-        protected override double LongHundredweightInOneKilogram => 0.01968413055222121;
-
         protected override double ShortHundredweightInOneKilogram => 0.022046226218487758;
 
         [Fact]

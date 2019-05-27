@@ -180,23 +180,6 @@
       ]
     },
     {
-      "SingularName": "LongHundredweight",
-      "PluralName": "LongHundredweight",
-      "BaseUnits": {
-        "M": "LongHundredweight"
-      },
-      "FromUnitToBaseFunc": "x/0.01968413055222121",
-      "FromBaseToUnitFunc": "x*0.01968413055222121",
-      "XmlDocSummary": "The long or imperial hundredweight (abbreviation cwt) is a unit of mass equal to 112 pounds in US and Canada.",
-      "XmlDocRemarks": "https://en.wikipedia.org/wiki/Hundredweight",
-      "Localization": [
-        {
-          "Culture": "en-US",
-          "Abbreviations": [ "cwt" ]
-        }
-      ]
-    },
-    {
       "SingularName": "Grain",
       "PluralName": "Grains",
       "BaseUnits": {

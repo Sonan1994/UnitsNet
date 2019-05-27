@@ -36,7 +36,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "m²" ]
+          "Abbreviations": [ "m²", "m2" ]
         },
         {
           "Culture": "ru-RU",
@@ -74,7 +74,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "cm²" ]
+          "Abbreviations": [ "cm²", "cm2" ]
         },
         {
           "Culture": "ru-RU",
@@ -93,7 +93,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "mm²" ]
+          "Abbreviations": [ "mm²", "mm2" ]
         },
         {
           "Culture": "ru-RU",
@@ -169,7 +169,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ft²" ]
+          "Abbreviations": [ "ft²", "ft2", "SF" ]
         },
         {
           "Culture": "ru-RU",
@@ -203,7 +203,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "in²" ]
+          "Abbreviations": [ "in²", "in2" ]
         },
         {
           "Culture": "ru-RU",
@@ -219,7 +219,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ac" ]
+          "Abbreviations": [ "ac", "acres", "acre" ]
         }
       ]
     },
@@ -231,7 +231,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ha" ]
+          "Abbreviations": [ "ha", "hecktares", "hecktare" ]
         }
       ]
     }
