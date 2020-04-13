@@ -47,7 +47,6 @@ namespace UnitsNet.Units
         ImperialGallon,
         ImperialOunce,
         KilocubicFoot,
-        KilocubicMeter,
         KiloimperialGallon,
         Kiloliter,
         KilousGallon,

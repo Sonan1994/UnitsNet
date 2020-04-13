@@ -17,7 +17,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "km²" ]
+          "Abbreviations": [ "km²", "km2" ]
         },
         {
           "Culture": "ru-RU",
@@ -55,7 +55,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "dm²" ]
+          "Abbreviations": [ "dm²", "dm2" ]
         },
         {
           "Culture": "ru-RU",
@@ -126,12 +126,12 @@
       "BaseUnits": {
         "L": "Mile"
       },
-      "FromUnitToBaseFunc": "x*2.59e6",
-      "FromBaseToUnitFunc": "x/2.59e6",
+      "FromUnitToBaseFunc": "x*2589988.110300000",
+      "FromBaseToUnitFunc": "x/2589988.110300000",
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "mi²" ]
+          "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
         },
         {
           "Culture": "ru-RU",
@@ -150,7 +150,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "yd²" ]
+          "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
         },
         {
           "Culture": "ru-RU",
@@ -169,7 +169,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ft²", "ft2", "SF" ]
+          "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
         },
         {
           "Culture": "ru-RU",
@@ -203,7 +203,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "in²", "in2" ]
+          "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
         },
         {
           "Culture": "ru-RU",
@@ -231,7 +231,19 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ha", "hecktares", "hecktare" ]
+          "Abbreviations": [ "ha", "hectares", "hectare" ]
+        }
+      ]
+    },
+    {
+      "SingularName": "Are",
+      "PluralName": "Ares",
+      "FromUnitToBaseFunc": "x*100",
+      "FromBaseToUnitFunc": "x/100",
+      "Localization": [
+        {
+          "Culture": "en-US",
+          "Abbreviations": [ "a", "ares", "are" ]
         }
       ]
     }

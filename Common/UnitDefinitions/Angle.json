@@ -69,7 +69,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "g" ]
+          "Abbreviations": [ "g", "grad" ]
         },
         {
           "Culture": "ru-RU",

@@ -29,7 +29,7 @@
       "PluralName": "CubicMeters",
       "FromUnitToBaseFunc": "x",
       "FromBaseToUnitFunc": "x",
-      "Prefixes": [ "Hecto", "Kilo" ],
+      "Prefixes": [ "Hecto" ],
       "Localization": [
         {
           "Culture": "en-US",
@@ -49,7 +49,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "km³" ]
+          "Abbreviations": [ "km³", "km3" ]
         },
         {
           "Culture": "ru-RU",
@@ -65,7 +65,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "dm³" ]
+          "Abbreviations": [ "dm³", "dm3" ]
         },
         {
           "Culture": "ru-RU",
@@ -81,7 +81,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "cm³" ]
+          "Abbreviations": [ "cm³", "cm3" ]
         },
         {
           "Culture": "ru-RU",
@@ -97,7 +97,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "mm³" ]
+          "Abbreviations": [ "mm³", "mm3" ]
         },
         {
           "Culture": "ru-RU",
@@ -129,7 +129,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "mi³" ]
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         },
         {
           "Culture": "ru-RU",
@@ -145,7 +145,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "yd³", "CY", "yard³" ]
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         },
         {
           "Culture": "ru-RU",
@@ -162,7 +162,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ft³", "ft3", "CF" ]
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         },
         {
           "Culture": "ru-RU",
@@ -178,7 +178,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "in³" ]
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         },
         {
           "Culture": "ru-RU",
@@ -451,12 +451,12 @@
     {
       "SingularName": "AcreFoot",
       "PluralName": "AcreFeet",
-      "FromUnitToBaseFunc": "x/0.000810714",
-      "FromBaseToUnitFunc": "x*0.000810714",
+      "FromUnitToBaseFunc": "x/0.0008107131821088457",
+      "FromBaseToUnitFunc": "x*0.0008107131821088457",
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "ac-ft", "acre-foot", "acre-feet" ]
+          "Abbreviations": [ "ac-ft", "acre-foot", "acre-feet", "AC-FT", "AF" ]
         }
       ]
     }

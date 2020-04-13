@@ -71,7 +71,6 @@ namespace UnitsNet
                     new UnitInfo<VolumeUnit>(VolumeUnit.ImperialGallon, BaseUnits.Undefined),
                     new UnitInfo<VolumeUnit>(VolumeUnit.ImperialOunce, BaseUnits.Undefined),
                     new UnitInfo<VolumeUnit>(VolumeUnit.KilocubicFoot, BaseUnits.Undefined),
-                    new UnitInfo<VolumeUnit>(VolumeUnit.KilocubicMeter, BaseUnits.Undefined),
                     new UnitInfo<VolumeUnit>(VolumeUnit.KiloimperialGallon, BaseUnits.Undefined),
                     new UnitInfo<VolumeUnit>(VolumeUnit.Kiloliter, BaseUnits.Undefined),
                     new UnitInfo<VolumeUnit>(VolumeUnit.KilousGallon, BaseUnits.Undefined),
@@ -308,11 +307,6 @@ namespace UnitsNet
         ///     Get Volume in KilocubicFeet.
         /// </summary>
         public double KilocubicFeet => As(VolumeUnit.KilocubicFoot);
-
-        /// <summary>
-        ///     Get Volume in KilocubicMeters.
-        /// </summary>
-        public double KilocubicMeters => As(VolumeUnit.KilocubicMeter);
 
         /// <summary>
         ///     Get Volume in KiloimperialGallons.
@@ -646,15 +640,6 @@ namespace UnitsNet
         {
             double value = (double) kilocubicfeet;
             return new Volume(value, VolumeUnit.KilocubicFoot);
-        }
-        /// <summary>
-        ///     Get Volume from KilocubicMeters.
-        /// </summary>
-        /// <exception cref="ArgumentException">If value is NaN or Infinity.</exception>
-        public static Volume FromKilocubicMeters(QuantityValue kilocubicmeters)
-        {
-            double value = (double) kilocubicmeters;
-            return new Volume(value, VolumeUnit.KilocubicMeter);
         }
         /// <summary>
         ///     Get Volume from KiloimperialGallons.
@@ -1256,7 +1241,7 @@ namespace UnitsNet
         {
             switch(Unit)
             {
-                case VolumeUnit.AcreFoot: return _value/0.000810714;
+                case VolumeUnit.AcreFoot: return _value/0.0008107131821088457;
                 case VolumeUnit.AuTablespoon: return _value*2e-5;
                 case VolumeUnit.Centiliter: return (_value/1e3) * 1e-2d;
                 case VolumeUnit.CubicCentimeter: return _value/1e6;
@@ -1277,7 +1262,6 @@ namespace UnitsNet
                 case VolumeUnit.ImperialGallon: return _value*0.00454609000000181429905810072407;
                 case VolumeUnit.ImperialOunce: return _value*2.8413062499962901241875439064617e-5;
                 case VolumeUnit.KilocubicFoot: return (_value*0.0283168) * 1e3d;
-                case VolumeUnit.KilocubicMeter: return (_value) * 1e3d;
                 case VolumeUnit.KiloimperialGallon: return (_value*0.00454609000000181429905810072407) * 1e3d;
                 case VolumeUnit.Kiloliter: return (_value/1e3) * 1e3d;
                 case VolumeUnit.KilousGallon: return (_value*0.00378541) * 1e3d;
@@ -1315,7 +1299,7 @@ namespace UnitsNet
 
             switch(unit)
             {
-                case VolumeUnit.AcreFoot: return baseUnitValue*0.000810714;
+                case VolumeUnit.AcreFoot: return baseUnitValue*0.0008107131821088457;
                 case VolumeUnit.AuTablespoon: return baseUnitValue/2e-5;
                 case VolumeUnit.Centiliter: return (baseUnitValue*1e3) / 1e-2d;
                 case VolumeUnit.CubicCentimeter: return baseUnitValue*1e6;
@@ -1336,7 +1320,6 @@ namespace UnitsNet
                 case VolumeUnit.ImperialGallon: return baseUnitValue/0.00454609000000181429905810072407;
                 case VolumeUnit.ImperialOunce: return baseUnitValue/2.8413062499962901241875439064617e-5;
                 case VolumeUnit.KilocubicFoot: return (baseUnitValue/0.0283168) / 1e3d;
-                case VolumeUnit.KilocubicMeter: return (baseUnitValue) / 1e3d;
                 case VolumeUnit.KiloimperialGallon: return (baseUnitValue/0.00454609000000181429905810072407) / 1e3d;
                 case VolumeUnit.Kiloliter: return (baseUnitValue*1e3) / 1e3d;
                 case VolumeUnit.KilousGallon: return (baseUnitValue/0.00378541) / 1e3d;

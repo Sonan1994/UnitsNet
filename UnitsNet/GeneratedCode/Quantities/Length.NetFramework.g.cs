@@ -923,7 +923,7 @@ namespace UnitsNet
                 case LengthUnit.Microinch: return _value*2.54e-8;
                 case LengthUnit.Micrometer: return (_value) * 1e-6d;
                 case LengthUnit.Mil: return _value*2.54e-5;
-                case LengthUnit.Mile: return _value*1609.34;
+                case LengthUnit.Mile: return _value*1609.344000000;
                 case LengthUnit.Millimeter: return (_value) * 1e-3d;
                 case LengthUnit.Nanometer: return (_value) * 1e-9d;
                 case LengthUnit.NauticalMile: return _value*1852;
@@ -959,7 +959,7 @@ namespace UnitsNet
                 case LengthUnit.Microinch: return baseUnitValue/2.54e-8;
                 case LengthUnit.Micrometer: return (baseUnitValue) / 1e-6d;
                 case LengthUnit.Mil: return baseUnitValue/2.54e-5;
-                case LengthUnit.Mile: return baseUnitValue/1609.34;
+                case LengthUnit.Mile: return baseUnitValue/1609.344000000;
                 case LengthUnit.Millimeter: return (baseUnitValue) / 1e-3d;
                 case LengthUnit.Nanometer: return (baseUnitValue) / 1e-9d;
                 case LengthUnit.NauticalMile: return baseUnitValue/1852;

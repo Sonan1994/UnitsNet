@@ -41,7 +41,6 @@ namespace UnitsNet.Tests.CustomCode
         protected override double ImperialOuncesInOneCubicMeter => 35195.07972;
 
         protected override double KilocubicFeetInOneCubicMeter => 3.531472e-2;
-        protected override double KilocubicMetersInOneCubicMeter => 0.001;
         protected override double KiloimperialGallonsInOneCubicMeter => 2.1996924e-1;
         protected override double KilousGallonsInOneCubicMeter => 2.6417217e-1;
 

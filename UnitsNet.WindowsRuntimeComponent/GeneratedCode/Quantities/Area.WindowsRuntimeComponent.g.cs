@@ -161,6 +161,11 @@ namespace UnitsNet
         public double Acres => As(AreaUnit.Acre);
 
         /// <summary>
+        ///     Get Area in Ares.
+        /// </summary>
+        public double Ares => As(AreaUnit.Are);
+
+        /// <summary>
         ///     Get Area in Hectares.
         /// </summary>
         public double Hectares => As(AreaUnit.Hectare);
@@ -259,6 +264,16 @@ namespace UnitsNet
         {
             double value = (double) acres;
             return new Area(value, AreaUnit.Acre);
+        }
+        /// <summary>
+        ///     Get Area from Ares.
+        /// </summary>
+        /// <exception cref="ArgumentException">If value is NaN or Infinity.</exception>
+        [Windows.Foundation.Metadata.DefaultOverload]
+        public static Area FromAres(double ares)
+        {
+            double value = (double) ares;
+            return new Area(value, AreaUnit.Are);
         }
         /// <summary>
         ///     Get Area from Hectares.
@@ -672,6 +687,7 @@ namespace UnitsNet
             switch(Unit)
             {
                 case AreaUnit.Acre: return _value*4046.85642;
+                case AreaUnit.Are: return _value*100;
                 case AreaUnit.Hectare: return _value*1e4;
                 case AreaUnit.SquareCentimeter: return _value*1e-4;
                 case AreaUnit.SquareDecimeter: return _value*1e-2;
@@ -680,7 +696,7 @@ namespace UnitsNet
                 case AreaUnit.SquareKilometer: return _value*1e6;
                 case AreaUnit.SquareMeter: return _value;
                 case AreaUnit.SquareMicrometer: return _value*1e-12;
-                case AreaUnit.SquareMile: return _value*2.59e6;
+                case AreaUnit.SquareMile: return _value*2589988.110300000;
                 case AreaUnit.SquareMillimeter: return _value*1e-6;
                 case AreaUnit.SquareYard: return _value*0.836127;
                 case AreaUnit.UsSurveySquareFoot: return _value*0.09290341161;
@@ -699,6 +715,7 @@ namespace UnitsNet
             switch(unit)
             {
                 case AreaUnit.Acre: return baseUnitValue/4046.85642;
+                case AreaUnit.Are: return baseUnitValue/100;
                 case AreaUnit.Hectare: return baseUnitValue/1e4;
                 case AreaUnit.SquareCentimeter: return baseUnitValue/1e-4;
                 case AreaUnit.SquareDecimeter: return baseUnitValue/1e-2;
@@ -707,7 +724,7 @@ namespace UnitsNet
                 case AreaUnit.SquareKilometer: return baseUnitValue/1e6;
                 case AreaUnit.SquareMeter: return baseUnitValue;
                 case AreaUnit.SquareMicrometer: return baseUnitValue/1e-12;
-                case AreaUnit.SquareMile: return baseUnitValue/2.59e6;
+                case AreaUnit.SquareMile: return baseUnitValue/2589988.110300000;
                 case AreaUnit.SquareMillimeter: return baseUnitValue/1e-6;
                 case AreaUnit.SquareYard: return baseUnitValue/0.836127;
                 case AreaUnit.UsSurveySquareFoot: return baseUnitValue/0.09290341161;

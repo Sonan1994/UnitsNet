@@ -33,12 +33,12 @@
       "BaseUnits": {
         "L": "Mile"
       },
-      "FromUnitToBaseFunc": "x*1609.34",
-      "FromBaseToUnitFunc": "x/1609.34",
+      "FromUnitToBaseFunc": "x*1609.344000000",
+      "FromBaseToUnitFunc": "x/1609.344000000",
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "mi" ]
+          "Abbreviations": [ "mi", "miles", "mile" ]
         },
         {
           "Culture": "ru-RU",
@@ -110,7 +110,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "in", "\\\"", "″" ]
+          "Abbreviations": [ "in", "\\\"", "″", "In" ]
         },
         {
           "Culture": "ru-RU",
