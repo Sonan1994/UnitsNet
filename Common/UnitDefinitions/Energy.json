@@ -100,7 +100,7 @@
           "Abbreviations": [ "Wh" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Вт/ч" ]
         }
       ]
@@ -118,7 +118,7 @@
           "AbbreviationsWithPrefixes": [ "Dth (E.C.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Европейский терм" ],
           "AbbreviationsWithPrefixes": [ "Европейский декатерм" ]
         }
@@ -137,7 +137,7 @@
           "AbbreviationsWithPrefixes": [ "Dth (U.S.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Американский терм" ],
           "AbbreviationsWithPrefixes": [ "Американский декатерм" ]
         }
@@ -156,7 +156,7 @@
           "AbbreviationsWithPrefixes": [ "Dth (imp.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Английский терм" ],
           "AbbreviationsWithPrefixes": [ "Английский декатерм" ]
         }

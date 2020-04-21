@@ -15,8 +15,20 @@
           "Abbreviations": [ "rad" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "рад" ]
+          "Culture": "ru",
+          "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "rad" ]
         }
       ]
     },
@@ -32,8 +44,20 @@
           "Abbreviations": [ "°", "deg" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "°" ]
+          "Culture": "ru",
+          "Abbreviations": [ "°", "deg" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "°", "deg" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "°", "deg" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "°", "grados" ]
         }
       ]
     },
@@ -72,8 +96,20 @@
           "Abbreviations": [ "g", "grad" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "g" ]
+          "Culture": "ru",
+          "Abbreviations": [ "grad" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "Grad" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "grad" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "grad" ]
         }
       ]
     },
@@ -88,7 +124,7 @@
           "Abbreviations": [ "r" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "r" ]
         }
       ]

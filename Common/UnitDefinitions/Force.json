@@ -19,7 +19,7 @@
           "Abbreviations": [ "dyn" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "дин" ]
         }
       ]
@@ -35,7 +35,7 @@
           "Abbreviations": [ "kgf" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "кгс" ]
         }
       ]
@@ -51,7 +51,7 @@
           "Abbreviations": [ "Ton" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "тс" ]
         }
       ]
@@ -68,7 +68,7 @@
           "Abbreviations": [ "N" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Н" ],
           "AbbreviationsWithPrefixes": [ "мкН", "мН", "даН", "кН", "МН" ]
         }
@@ -85,7 +85,7 @@
           "Abbreviations": [ "kp" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "кгс" ]
         }
       ]
@@ -101,7 +101,7 @@
           "Abbreviations": [ "pdl" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "паундаль" ]
         }
       ]
@@ -117,7 +117,7 @@
           "Abbreviations": [ "lbf" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "фунт-сила" ]
         }
       ]

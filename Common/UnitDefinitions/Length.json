@@ -21,9 +21,24 @@
           "Abbreviations": [ "m" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "м" ],
           "AbbreviationsWithPrefixes": [ "нм", "мкм", "мм", "см", "дм", "км" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
         }
       ]
     },
@@ -41,8 +56,20 @@
           "Abbreviations": [ "mi", "miles", "mile" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "миля" ]
+          "Culture": "ru",
+          "Abbreviations": [ "миля", "mi", "мили" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "mi", "Meilen", "Meile" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "mi", "bornes" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "mi", "Leguas", "Legua" ]
         }
       ]
     },
@@ -60,8 +87,20 @@
           "Abbreviations": [ "yd" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "ярд" ]
+          "Culture": "ru",
+          "Abbreviations": [ "ярд", "yd" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "yd" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "yd" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "yd" ]
         }
       ]
     },
@@ -79,8 +118,20 @@
           "Abbreviations": [ "ft", "'", "′", "LF" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "фут" ]
+          "Culture": "ru",
+          "Abbreviations": [ "фут", "ft", "'", "LF" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "ft", "'", "LF" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "pi", "'", "LF" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "ft", "'", "LF" ]
         }
       ]
     },
@@ -113,8 +164,20 @@
           "Abbreviations": [ "in", "\\\"", "″", "In" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "дюйм" ]
+          "Culture": "ru",
+          "Abbreviations": [ "дюйм", "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "in", "\\\"", "In" ]
         }
       ]
     },
@@ -132,7 +195,7 @@
           "Abbreviations": [ "mil" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "мил" ]
         }
       ]
@@ -151,7 +214,7 @@
           "Abbreviations": [ "NM" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "мил" ]
         }
       ]
@@ -200,7 +263,7 @@
           "Abbreviations": [ "µin" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "микродюйм" ]
         }
       ]

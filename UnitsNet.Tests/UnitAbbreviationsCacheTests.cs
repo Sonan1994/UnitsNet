@@ -16,7 +16,7 @@ namespace UnitsNet.Tests
     {
         private readonly ITestOutputHelper _output;
         private const string AmericanCultureName = "en-US";
-        private const string RussianCultureName = "ru-RU";
+        private const string RussianCultureName = "ru";
         private const string NorwegianCultureName = "nb-NO";
 
         private static readonly IFormatProvider AmericanCulture = new CultureInfo(AmericanCultureName);

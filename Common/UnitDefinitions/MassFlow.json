@@ -56,7 +56,7 @@
           "Abbreviations": [ "kg/h" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "кг/ч" ]
         }
       ]
@@ -72,7 +72,7 @@
           "Abbreviations": [ "kg/min" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "кг/мин" ]
         }
       ]

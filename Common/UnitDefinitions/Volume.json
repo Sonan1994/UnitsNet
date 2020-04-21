@@ -18,9 +18,21 @@
           "Abbreviations": [ "l", "L" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "л" ],
+          "Culture": "ru",
+          "Abbreviations": [ "л", "Л" ],
           "AbbreviationsWithPrefixes": [ "мкл", "мл", "сл", "дл", "гл", "кл", "Mкл" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "l", "L" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "l", "L" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "l", "L" ]
         }
       ]
     },
@@ -36,8 +48,20 @@
           "Abbreviations": [ "m³", "m3" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "м³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "м³", "м3" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "m³", "m3" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "m³", "m3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "m³", "m3" ]
         }
       ]
     },
@@ -52,8 +76,20 @@
           "Abbreviations": [ "km³", "km3" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "км³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "км³", "км3" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "km³", "km3" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "km³", "km3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "km³", "km3" ]
         }
       ]
     },
@@ -68,8 +104,20 @@
           "Abbreviations": [ "dm³", "dm3" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "дм³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "дм³", "дм3" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "dm³", "dm3" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "dm³", "dm3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "dm³", "dm3" ]
         }
       ]
     },
@@ -84,8 +132,20 @@
           "Abbreviations": [ "cm³", "cm3" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "см³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "см³", "см3" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "см³", "см3" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "cm³", "cm3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "cm³", "cm3" ]
         }
       ]
     },
@@ -100,8 +160,20 @@
           "Abbreviations": [ "mm³", "mm3" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "мм³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "мм³", "мм3" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "mm³", "mm3" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "mm³", "mm3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "mm³", "mm3" ]
         }
       ]
     },
@@ -116,7 +188,7 @@
           "Abbreviations": [ "µm³" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "мкм³" ]
         }
       ]
@@ -132,8 +204,20 @@
           "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "миля³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "миля³", "mi³", "mi3", "cu. mi.", "cu mi" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "mi³", "mi3" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         }
       ]
     },
@@ -148,8 +232,20 @@
           "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "ярд³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "ярд³", "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "yd³", "yd3", "CY", "vg³" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         }
       ]
     },
@@ -165,8 +261,20 @@
           "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "фут³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "фут³", "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "pi³", "pi3", "CF" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         }
       ]
     },
@@ -181,8 +289,20 @@
           "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         },
         {
-          "Culture": "ru-RU",
-          "Abbreviations": [ "дюйм³" ]
+          "Culture": "ru",
+          "Abbreviations": [ "дюйм³", "in³", "in3", "cu. in.", "cu in" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "in³", "in3", "po³" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         }
       ]
     },
@@ -198,7 +318,7 @@
           "Abbreviations": [ "gal (imp.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Английский галлон" ]
         }
       ]
@@ -214,7 +334,7 @@
           "Abbreviations": [ "oz (imp.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Английская унция" ]
         }
       ]
@@ -231,7 +351,7 @@
           "Abbreviations": [ "gal (U.S.)", "gal" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Американский галлон" ]
         }
       ]
@@ -247,7 +367,7 @@
           "Abbreviations": [ "oz (U.S.)" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Американская унция" ]
         }
       ]
@@ -263,7 +383,7 @@
           "Abbreviations": []
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": []
         },
         {
@@ -283,7 +403,7 @@
           "Abbreviations": []
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": []
         },
         {
@@ -303,7 +423,7 @@
           "Abbreviations": []
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": []
         },
         {
@@ -323,7 +443,7 @@
           "Abbreviations": [ "tsp", "t", "ts", "tspn", "t.", "ts.", "tsp.", "tspn.", "teaspoon" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": []
         },
         {
@@ -343,7 +463,7 @@
           "Abbreviations": []
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": []
         },
         {
@@ -457,6 +577,22 @@
         {
           "Culture": "en-US",
           "Abbreviations": [ "ac-ft", "acre-foot", "acre-feet", "AC-FT", "AF" ]
+        },
+        {
+          "Culture": "ru",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
+        },
+        {
+          "Culture": "de",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
+        },
+        {
+          "Culture": "fr",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
+        },
+        {
+          "Culture": "es",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
         }
       ]
     }

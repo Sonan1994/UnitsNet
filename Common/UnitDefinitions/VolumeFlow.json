@@ -18,7 +18,7 @@
           "Abbreviations": [ "m³/s" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "м³/с" ]
         }
       ]
@@ -46,7 +46,7 @@
           "Abbreviations": [ "m³/h" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "м³/ч" ]
         }
       ]
@@ -207,7 +207,7 @@
           "Abbreviations": [ "LPH" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "л/ч" ]
         }
       ]
@@ -321,7 +321,7 @@
           "Abbreviations": [ "dm³/min" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "дм³/мин" ]
         }
       ]
@@ -385,7 +385,7 @@
           "Abbreviations": [ "mm³/s" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "мм³/с" ]
         }
       ]

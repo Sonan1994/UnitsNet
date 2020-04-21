@@ -19,7 +19,7 @@
           "Abbreviations": [ "g/mol" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "г/моль" ],
           "AbbreviationsWithPrefixes": [ "нг/моль", "мкг/моль", "мг/моль", "сг/моль", "дг/моль", "даг/моль", "гг/моль", "кг/моль" ]
         }
@@ -37,7 +37,7 @@
           "Abbreviations": [ "lb/mol" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "фунт/моль" ]
         }
       ]

@@ -20,7 +20,7 @@
           "Abbreviations": [ "Pa/s" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Па/с" ],
           "AbbreviationsWithPrefixes": [ "кПа/с", "МПа/с" ]
         }
@@ -38,7 +38,7 @@
           "Abbreviations": [ "Pa/min" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "Па/с" ],
           "AbbreviationsWithPrefixes": [ "кПа/мин", "МПа/мин" ]
         }
@@ -55,7 +55,7 @@
           "Abbreviations": [ "atm/s" ]
         },
         {
-          "Culture": "ru-RU",
+          "Culture": "ru",
           "Abbreviations": [ "атм/с" ]
         }
       ]
