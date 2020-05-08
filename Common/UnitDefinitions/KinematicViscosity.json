@@ -19,7 +19,7 @@
           "Abbreviations": [ "m²/s" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "м²/с" ]
         }
       ]
@@ -36,7 +36,7 @@
           "Abbreviations": [ "St" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "Ст" ],
           "AbbreviationsWithPrefixes": [ "нСт", "мкСт", "мСт", "сСт", "дСт", "кСт" ]
         }

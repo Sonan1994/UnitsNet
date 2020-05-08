@@ -20,7 +20,7 @@
           "Abbreviations": [ "yr", "year", "years" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "год" ]
         }
       ]
@@ -39,7 +39,7 @@
           "Abbreviations": [ "mo", "month", "months" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "месяц" ]
         }
       ]
@@ -56,10 +56,6 @@
         {
           "Culture": "en-US",
           "Abbreviations": [ "wk", "week", "weeks" ]
-        },
-        {
-          "Culture": "ru",
-          "Abbreviations": [ "мин" ]
         }
       ]
     },
@@ -77,19 +73,19 @@
           "Abbreviations": [ "d", "day", "days" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "д", "дни" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "Tage", "d" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "journées", "j" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "Días", "d" ]
         }
       ]
@@ -108,19 +104,19 @@
           "Abbreviations": [ "h", "hr", "hrs", "hour", "hours" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "ч", "час", "часы" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "h", "Stunde", "Stunden" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "h", "hr", "heures" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "h", "hr", "Horas" ]
         }
       ]
@@ -139,19 +135,19 @@
           "Abbreviations": [ "m", "min", "minute", "minutes" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "мин", "минуты" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "min", "Minuten" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "min", "minutes" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "min", "Minutos" ]
         }
       ]
@@ -171,20 +167,20 @@
           "Abbreviations": [ "s", "sec", "secs", "second", "seconds" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "с", "сек", "секунды" ],
           "AbbreviationsWithPrefixes": [ "нс", "мкс", "мс" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "sek", "s", "Sekunden" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "sec", "s", "seconds" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "seg", "s", "Segundos" ]
         }
       ]

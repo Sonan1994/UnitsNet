@@ -18,7 +18,7 @@
           "Abbreviations": [ "rad/s" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "рад/с" ]
         }
       ]
@@ -35,7 +35,7 @@
           "Abbreviations": [ "°/s", "deg/s" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "°/с" ]
         }
       ]
@@ -63,7 +63,7 @@
           "Abbreviations": [ "r/s" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "об/с" ]
         }
       ]
@@ -79,7 +79,7 @@
           "Abbreviations": [ "rpm", "r/min" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "об/мин" ]
         }
       ]

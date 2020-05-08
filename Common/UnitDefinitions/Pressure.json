@@ -20,7 +20,7 @@
           "Abbreviations": [ "Pa" ] 
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "Па" ],
           "AbbreviationsWithPrefixes": [ "мкПа", "ммПа", "даПа", "гПа", "кПа", "МПа", "ГПа" ]
         }
@@ -37,7 +37,7 @@
           "Abbreviations": [ "atm" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "атм" ]
         }
       ]
@@ -54,7 +54,7 @@
           "Abbreviations": [ "bar" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "бар" ]
         }
       ]
@@ -70,7 +70,7 @@
           "Abbreviations": [ "kgf/m²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "кгс/м²" ]
         }
       ]
@@ -86,7 +86,7 @@
           "Abbreviations": [ "kgf/cm²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "кгс/см²" ]
         }
       ]
@@ -102,7 +102,7 @@
           "Abbreviations": [ "kgf/mm²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "кгс/мм²" ]
         }
       ]
@@ -119,7 +119,7 @@
           "Abbreviations": [ "N/m²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "Н/м²" ],
           "AbbreviationsWithPrefixes": [ "кН/м²", "Мн/м²" ]
         }
@@ -137,7 +137,7 @@
           "Abbreviations": [ "N/cm²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "Н/см²" ],
           "AbbreviationsWithPrefixes": [ "кН/см²" ]
         }
@@ -155,7 +155,7 @@
           "Abbreviations": [ "N/mm²" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "Н/мм²" ],
           "AbbreviationsWithPrefixes": [ "кН/мм²" ]
         }
@@ -172,7 +172,7 @@
           "Abbreviations": [ "at" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "ат" ]
         }
       ]
@@ -188,7 +188,7 @@
           "Abbreviations": [ "torr" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "торр" ]
         }
       ]

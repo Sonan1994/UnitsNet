@@ -21,22 +21,22 @@
           "Abbreviations": [ "g" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "г" ],
           "AbbreviationsWithPrefixes": [ "нг", "мкг", "мг", "сг", "дг", "даг", "гг", "кг" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         }
@@ -57,20 +57,20 @@
           "Abbreviations": [ "t" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "т" ],
           "AbbreviationsWithPrefixes": [ "кт", "Мт" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "t" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "t" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "t" ]
         }
       ]
@@ -91,7 +91,7 @@
           "Abbreviations": [ "short tn" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "тонна малая" ]
         }
       ]
@@ -112,7 +112,7 @@
           "Abbreviations": [ "long tn" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "тонна большая" ]
         }
       ]
@@ -133,19 +133,19 @@
           "Abbreviations": [ "lb", "lbs", "lbm" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "фунт", "lb" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "lb" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "lb" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "lb" ]
         }
       ]
@@ -166,19 +166,19 @@
           "Abbreviations": [ "oz" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "oz" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "oz" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "oz" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "oz" ]
         }
       ]
@@ -233,19 +233,19 @@
           "Abbreviations": [ "cwt" ]
         },
         {
-          "Culture": "ru",
+          "Culture": "ru-RU",
           "Abbreviations": [ "cwt" ]
         },
         {
-          "Culture": "de",
+          "Culture": "de-DE",
           "Abbreviations": [ "cwt" ]
         },
         {
-          "Culture": "fr",
+          "Culture": "fr-FR",
           "Abbreviations": [ "cwt" ]
         },
         {
-          "Culture": "es",
+          "Culture": "es-ES_tradnl",
           "Abbreviations": [ "cwt" ]
         }
       ]
