@@ -33,6 +33,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "l", "L" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "l", "L" ]
         }
       ]
     },
@@ -62,6 +66,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "m³", "m3" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "m³", "m3" ]
         }
       ]
     },
@@ -89,6 +97,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "km³", "km3" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "km³", "km3" ]
         }
       ]
@@ -118,6 +130,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "dm³", "dm3" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "dm³", "dm3" ]
         }
       ]
     },
@@ -146,6 +162,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "cm³", "cm3" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "cm³", "cm3" ]
         }
       ]
     },
@@ -173,6 +193,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "mm³", "mm3" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "mm³", "mm3" ]
         }
       ]
@@ -218,6 +242,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         }
       ]
     },
@@ -245,6 +273,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         }
       ]
@@ -275,6 +307,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         }
       ]
     },
@@ -302,6 +338,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         }
       ]
@@ -592,6 +632,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
         }
       ]

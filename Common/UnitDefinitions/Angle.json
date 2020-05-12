@@ -29,6 +29,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "rad" ]
         }
       ]
     },
@@ -58,6 +62,10 @@
         {
           "Culture": "es-ES_tradnl",
           "Abbreviations": [ "°", "grados" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "°", "deg" ]
         }
       ]
     },
@@ -109,6 +117,10 @@
         },
         {
           "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "grad" ]
+        },
+        {
+          "Culture": "it-IT",
           "Abbreviations": [ "grad" ]
         }
       ]
