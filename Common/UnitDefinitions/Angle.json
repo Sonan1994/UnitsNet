@@ -61,7 +61,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "°", "grados" ]
+          "Abbreviations": [ "°", "grado" ]
         },
         {
           "Culture": "it-IT",
@@ -117,7 +117,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "grad" ]
+          "Abbreviations": [ "gon" ]
         },
         {
           "Culture": "it-IT",

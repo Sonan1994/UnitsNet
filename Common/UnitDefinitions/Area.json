@@ -379,7 +379,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "ac", "acre", "Acres" ]
+          "Abbreviations": [ "ac", "acre", "acres" ]
         },
         {
           "Culture": "it-IT",
@@ -411,7 +411,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "ha", "Hectáreas", "Hectárea" ]
+          "Abbreviations": [ "ha", "hectáreas", "hectárea" ]
         },
         {
           "Culture": "it-IT",
@@ -443,7 +443,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "un", "Ares", "are" ]
+          "Abbreviations": [ "a", "áreas", "área" ]
         },
         {
           "Culture": "it-IT",

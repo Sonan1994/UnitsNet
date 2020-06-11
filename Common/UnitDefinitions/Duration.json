@@ -86,7 +86,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "Días", "d" ]
+          "Abbreviations": [ "días", "d" ]
         },
         {
           "Culture": "it-IT",
@@ -121,7 +121,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "h", "hr", "Horas" ]
+          "Abbreviations": [ "h", "hr", "horas" ]
         },
         {
           "Culture": "it-IT",
@@ -156,7 +156,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "min", "Minutos" ]
+          "Abbreviations": [ "min", "minutos" ]
         },
         {
           "Culture": "it-IT",
@@ -193,7 +193,7 @@
         },
         {
           "Culture": "es-ES_tradnl",
-          "Abbreviations": [ "seg", "s", "Segundos" ]
+          "Abbreviations": [ "seg", "s", "segundos" ]
         },
         {
           "Culture": "it-IT",
