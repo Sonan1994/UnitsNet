@@ -38,6 +38,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "km²", "km2" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 킬로미터" ]
         }
       ]
     },
@@ -73,6 +77,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "m²", "m2" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 미터" ]
         }
       ]
     },
@@ -108,6 +116,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "dm²", "dm2" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 데시미터" ]
         }
       ]
     },
@@ -143,6 +155,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "cm²", "cm2" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 센티미터" ]
         }
       ]
     },
@@ -178,6 +194,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "mm²", "mm2" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 밀리미터" ]
         }
       ]
     },
@@ -232,6 +252,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 마일" ]
         }
       ]
     },
@@ -267,6 +291,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 야드" ]
         }
       ]
     },
@@ -302,6 +330,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 피트" ]
         }
       ]
     },
@@ -352,6 +384,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "평방 인치" ]
         }
       ]
     },
@@ -384,6 +420,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "ac", "acres", "acre" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "에이커" ]
         }
       ]
     },
@@ -416,6 +456,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "ha", "hectares", "hectare" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "헥타르" ]
         }
       ]
     },
@@ -448,6 +492,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "a", "ares", "are" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "아르" ]
         }
       ]
     }

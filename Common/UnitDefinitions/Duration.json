@@ -91,6 +91,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "d", "days" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "일" ]
         }
       ]
     },
@@ -126,6 +130,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "h", "hr", "hours" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "시간" ]
         }
       ]
     },
@@ -161,6 +169,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "min", "minutes" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "분" ]
         }
       ]
     },
@@ -198,6 +210,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "s", "sec", "seconds" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "초" ]
         }
       ]
     }

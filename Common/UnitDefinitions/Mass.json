@@ -44,6 +44,11 @@
           "Culture": "it-IT",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "그램" ],
+          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "킬로그램" ]
         }
       ]
     },
@@ -81,6 +86,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "t" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "톤" ]
         }
       ]
     },
@@ -160,6 +169,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "lb" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "파운드" ]
         }
       ]
     },
@@ -197,6 +210,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "oz" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "온스" ]
         }
       ]
     },
@@ -268,6 +285,10 @@
         {
           "Culture": "it-IT",
           "Abbreviations": [ "cwt" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "백 파운드" ]
         }
       ]
     },
