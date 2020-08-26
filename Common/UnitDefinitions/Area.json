@@ -41,7 +41,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 킬로미터" ]
+          "Abbreviations": [ "km²", "km2" ]
         }
       ]
     },
@@ -80,7 +80,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 미터" ]
+          "Abbreviations": [ "m²", "m2" ]
         }
       ]
     },
@@ -119,7 +119,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 데시미터" ]
+          "Abbreviations": [ "dm²", "dm2" ]
         }
       ]
     },
@@ -158,7 +158,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 센티미터" ]
+          "Abbreviations": [ "cm²", "cm2" ]
         }
       ]
     },
@@ -197,7 +197,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 밀리미터" ]
+          "Abbreviations": [ "mm²", "mm2" ]
         }
       ]
     },
@@ -255,7 +255,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 마일" ]
+          "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
         }
       ]
     },
@@ -294,7 +294,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 야드" ]
+          "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
         }
       ]
     },
@@ -333,7 +333,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 피트" ]
+          "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
         }
       ]
     },
@@ -387,7 +387,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "평방 인치" ]
+          "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
         }
       ]
     },
@@ -423,7 +423,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "에이커" ]
+          "Abbreviations": [ "ac", "acres", "acre" ]
         }
       ]
     },
@@ -459,7 +459,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "헥타르" ]
+          "Abbreviations": [ "ha", "hectares", "hectare" ]
         }
       ]
     },
@@ -495,7 +495,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "아르" ]
+          "Abbreviations": [ "a", "ares", "are" ]
         }
       ]
     }

@@ -36,7 +36,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "라디안" ]
+          "Abbreviations": [ "rad" ]
         }
       ]
     },
@@ -73,7 +73,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "도" ]
+          "Abbreviations": [ "°", "deg" ]
         }
       ]
     },
@@ -133,7 +133,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "그라디안" ]
+          "Abbreviations": [ "grad" ]
         }
       ]
     },

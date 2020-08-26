@@ -47,8 +47,8 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "그램" ],
-          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "킬로그램" ]
+          "Abbreviations": [ "g" ],
+          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         }
       ]
     },
@@ -89,7 +89,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "톤" ]
+          "Abbreviations": [ "t" ]
         }
       ]
     },
@@ -172,7 +172,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "파운드" ]
+          "Abbreviations": [ "lb" ]
         }
       ]
     },
@@ -213,7 +213,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "온스" ]
+          "Abbreviations": [ "oz" ]
         }
       ]
     },
@@ -288,7 +288,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "백 파운드" ]
+          "Abbreviations": [ "cwt" ]
         }
       ]
     },

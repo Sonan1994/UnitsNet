@@ -47,8 +47,8 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "미터" ],
-          "AbbreviationsWithPrefixes": [ "nm", "mcm", "밀리미터", "센티미터", "데시미터", "킬로미터" ]
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
         }
       ]
     },
@@ -87,7 +87,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "마일" ]
+          "Abbreviations": [ "mi", "miles", "mile" ]
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "야드" ]
+          "Abbreviations": [ "yd" ]
         }
       ]
     },
@@ -165,7 +165,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "피트" ]
+          "Abbreviations": [ "ft", "'", "LF" ]
         }
       ]
     },
@@ -219,7 +219,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "인치" ]
+          "Abbreviations": [ "in", "\\\"", "In" ]
         }
       ]
     },

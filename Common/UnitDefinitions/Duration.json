@@ -94,7 +94,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "일" ]
+          "Abbreviations": [ "d", "days" ]
         }
       ]
     },
@@ -133,7 +133,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "시간" ]
+          "Abbreviations": [ "h", "hr", "hours" ]
         }
       ]
     },
@@ -172,7 +172,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "분" ]
+          "Abbreviations": [ "min", "minutes" ]
         }
       ]
     },
@@ -213,7 +213,7 @@
         },
         {
           "Culture": "ko-KR",
-          "Abbreviations": [ "초" ]
+          "Abbreviations": [ "s", "sec", "seconds" ]
         }
       ]
     }
