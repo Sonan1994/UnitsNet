@@ -49,6 +49,11 @@
           "Culture": "ko-KR",
           "Abbreviations": [ "m" ],
           "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
         }
       ]
     },
@@ -88,6 +93,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "mi", "miles", "mile" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "mé", "mérföld" ]
         }
       ]
     },
@@ -126,6 +135,10 @@
         },
         {
           "Culture": "ko-KR",
+          "Abbreviations": [ "yd" ]
+        },
+        {
+          "Culture": "hu-HU",
           "Abbreviations": [ "yd" ]
         }
       ]
@@ -166,6 +179,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "ft", "'", "LF" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "láb", "'", "Láb" ]
         }
       ]
     },
@@ -219,6 +236,10 @@
         },
         {
           "Culture": "ko-KR",
+          "Abbreviations": [ "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "hu-HU",
           "Abbreviations": [ "in", "\\\"", "In" ]
         }
       ]

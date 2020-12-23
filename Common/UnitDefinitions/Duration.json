@@ -95,6 +95,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "d", "days" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "nap", "n" ]
         }
       ]
     },
@@ -134,6 +138,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "h", "hr", "hours" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "ó", "óra" ]
         }
       ]
     },
@@ -173,6 +181,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "min", "minutes" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "p", "perc" ]
         }
       ]
     },
@@ -214,6 +226,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "s", "sec", "seconds" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "mp", "másodperc" ]
         }
       ]
     }

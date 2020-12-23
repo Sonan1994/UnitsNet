@@ -49,6 +49,11 @@
           "Culture": "ko-KR",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "g" ],
+          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         }
       ]
     },
@@ -89,6 +94,10 @@
         },
         {
           "Culture": "ko-KR",
+          "Abbreviations": [ "t" ]
+        },
+        {
+          "Culture": "hu-HU",
           "Abbreviations": [ "t" ]
         }
       ]
@@ -173,6 +182,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "lb" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "lbs" ]
         }
       ]
     },
@@ -213,6 +226,10 @@
         },
         {
           "Culture": "ko-KR",
+          "Abbreviations": [ "oz" ]
+        },
+        {
+          "Culture": "hu-HU",
           "Abbreviations": [ "oz" ]
         }
       ]
@@ -289,6 +306,10 @@
         {
           "Culture": "ko-KR",
           "Abbreviations": [ "cwt" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "clbs" ]
         }
       ]
     },
