@@ -45,6 +45,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "l", "L" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "l", "L" ]
         }
       ]
     },
@@ -86,6 +90,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "m³", "m3" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "m³", "m3" ]
         }
       ]
     },
@@ -125,6 +133,10 @@
         },
         {
           "Culture": "hu-HU",
+          "Abbreviations": [ "km³", "km3" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
           "Abbreviations": [ "km³", "km3" ]
         }
       ]
@@ -166,6 +178,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "dm³", "dm3" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "dm³", "dm3" ]
         }
       ]
     },
@@ -206,6 +222,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "cm³", "cm3" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "cm³", "cm3" ]
         }
       ]
     },
@@ -245,6 +265,10 @@
         },
         {
           "Culture": "hu-HU",
+          "Abbreviations": [ "mm³", "mm3" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
           "Abbreviations": [ "mm³", "mm3" ]
         }
       ]
@@ -302,6 +326,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "mé³", "mé3", "ko. mé.", "ko mé" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         }
       ]
     },
@@ -342,6 +370,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "yd³", "yd3", "KÖY", "kö. yd.", "kö yd" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         }
       ]
     },
@@ -383,6 +415,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "láb³", "láb3", "KL", "ko. láb", "ko láb" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         }
       ]
     },
@@ -423,6 +459,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "in³", "in3", "kö. in.", "kö in" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         }
       ]
     },
@@ -725,6 +765,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "ÖL", "ÖL-LÁB", "öl-láb" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
         }
       ]
     }

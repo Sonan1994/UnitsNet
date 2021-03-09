@@ -99,6 +99,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "nap", "n" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "dani", "d" ]
         }
       ]
     },
@@ -142,6 +146,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "ó", "óra" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "č", "sati" ]
         }
       ]
     },
@@ -185,6 +193,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "p", "perc" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "min", "minuti" ]
         }
       ]
     },
@@ -230,6 +242,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "mp", "másodperc" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "sek", "s", "sekunde" ]
         }
       ]
     }

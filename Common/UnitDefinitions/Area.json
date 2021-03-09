@@ -46,6 +46,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "km²", "km2" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "km²", "km2" ]
         }
       ]
     },
@@ -88,6 +92,10 @@
         },
         {
           "Culture": "hu-HU",
+          "Abbreviations": [ "m²", "m2" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
           "Abbreviations": [ "m²", "m2" ]
         }
       ]
@@ -132,6 +140,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "dm²", "dm2" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "dm²", "dm2" ]
         }
       ]
     },
@@ -175,6 +187,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "cm²", "cm2" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "cm²", "cm2" ]
         }
       ]
     },
@@ -217,6 +233,10 @@
         },
         {
           "Culture": "hu-HU",
+          "Abbreviations": [ "mm²", "mm2" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
           "Abbreviations": [ "mm²", "mm2" ]
         }
       ]
@@ -280,6 +300,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "mé²", "mé2", "n. mé.", "n mé" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
         }
       ]
     },
@@ -323,6 +347,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "yd²", "yd2", "NY", "n. yd.", "n yd" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
         }
       ]
     },
@@ -366,6 +394,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "láb²", "láb2", "nl", "n. láb", "n láb" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
         }
       ]
     },
@@ -424,6 +456,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "in²", "in2", "n. in", "n in" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
         }
       ]
     },
@@ -464,6 +500,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "öl" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "ac", "akri", "akr" ]
         }
       ]
     },
@@ -504,6 +544,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "ha", "hektár" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "ha", "hektara", "hektar" ]
         }
       ]
     },
@@ -544,6 +588,10 @@
         {
           "Culture": "hu-HU",
           "Abbreviations": [ "a", "ares", "are" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "a", "ari", "ar" ]
         }
       ]
     }
