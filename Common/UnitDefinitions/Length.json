@@ -59,6 +59,11 @@
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "m" ],
           "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "m" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
         }
       ]
     },
@@ -106,6 +111,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "mi", "milje", "milja" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "mi", "miles", "mile" ]
         }
       ]
     },
@@ -153,6 +162,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "yd" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "yd" ]
         }
       ]
     },
@@ -199,6 +212,10 @@
         },
         {
           "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "ft", "'", "LF" ]
+        },
+        {
+          "Culture": "sl-SI",
           "Abbreviations": [ "ft", "'", "LF" ]
         }
       ]
@@ -261,6 +278,10 @@
         },
         {
           "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "sl-SI",
           "Abbreviations": [ "in", "\\\"", "In" ]
         }
       ]

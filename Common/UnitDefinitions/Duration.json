@@ -103,6 +103,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "dani", "d" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "d", "days" ]
         }
       ]
     },
@@ -150,6 +154,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "č", "sati" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "h", "hr", "hours" ]
         }
       ]
     },
@@ -197,6 +205,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "min", "minuti" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "min", "minutes" ]
         }
       ]
     },
@@ -246,6 +258,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "sek", "s", "sekunde" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "s", "sec", "seconds" ]
         }
       ]
     }

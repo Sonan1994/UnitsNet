@@ -45,6 +45,10 @@
         {
           "Culture": "sr-Latn-RS",
           "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "rad" ]
         }
       ]
     },
@@ -89,6 +93,10 @@
         },
         {
           "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "°", "deg" ]
+        },
+        {
+          "Culture": "sl-SI",
           "Abbreviations": [ "°", "deg" ]
         }
       ]
@@ -157,6 +165,10 @@
         },
         {
           "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "grad" ]
+        },
+        {
+          "Culture": "sl-SI",
           "Abbreviations": [ "grad" ]
         }
       ]
