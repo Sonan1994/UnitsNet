@@ -64,6 +64,11 @@
           "Culture": "sl-SI",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "克" ],
+          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "千克" ]
         }
       ]
     },
@@ -117,6 +122,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "t" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "吨" ]
         }
       ]
     },
@@ -212,6 +221,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "lb" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "磅" ]
         }
       ]
     },
@@ -265,6 +278,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "oz" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "盎司" ]
         }
       ]
     },
@@ -352,6 +369,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "cwt" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "英担" ]
         }
       ]
     },

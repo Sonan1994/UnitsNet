@@ -54,6 +54,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "km²", "km2" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方千米" ]
         }
       ]
     },
@@ -105,6 +109,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "m²", "m2" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方米" ]
         }
       ]
     },
@@ -156,6 +164,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "dm²", "dm2" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方分米" ]
         }
       ]
     },
@@ -207,6 +219,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "cm²", "cm2" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方厘米" ]
         }
       ]
     },
@@ -258,6 +274,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "mm²", "mm2" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方毫米" ]
         }
       ]
     },
@@ -328,6 +348,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方英里" ]
         }
       ]
     },
@@ -379,6 +403,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方码" ]
         }
       ]
     },
@@ -430,6 +458,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方英尺" ]
         }
       ]
     },
@@ -496,6 +528,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "平方英寸" ]
         }
       ]
     },
@@ -544,6 +580,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "ac", "acres", "acre" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "公亩" ]
         }
       ]
     },
@@ -592,6 +632,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "ha", "hectares", "hectare" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "公顷" ]
         }
       ]
     },
@@ -640,6 +684,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "a", "ares", "are" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "公亩" ]
         }
       ]
     }

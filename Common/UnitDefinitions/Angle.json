@@ -49,6 +49,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "rad" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "弧度" ]
         }
       ]
     },
@@ -98,6 +102,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "°", "deg" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "角度" ]
         }
       ]
     },
@@ -170,6 +178,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "grad" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "梯度" ]
         }
       ]
     },

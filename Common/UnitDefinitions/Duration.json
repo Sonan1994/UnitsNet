@@ -107,6 +107,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "d", "days" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "日" ]
         }
       ]
     },
@@ -158,6 +162,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "h", "hr", "hours" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "小时" ]
         }
       ]
     },
@@ -209,6 +217,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "min", "minutes" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "分钟" ]
         }
       ]
     },
@@ -262,6 +274,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "s", "sec", "seconds" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "秒" ]
         }
       ]
     }

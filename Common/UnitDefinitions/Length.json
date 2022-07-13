@@ -64,6 +64,12 @@
           "Culture": "sl-SI",
           "Abbreviations": [ "m" ],
           "AbbreviationsWithPrefixes": [ "nm", "mcm", "mm", "cm", "dm", "km" ]
+
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "米" ],
+          "AbbreviationsWithPrefixes": [ "nm", "mcm", "毫米", "厘米", "分米", "千米" ]
         }
       ]
     },
@@ -115,6 +121,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "mi", "miles", "mile" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "英里" ]
         }
       ]
     },
@@ -166,6 +176,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "yd" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "码" ]
         }
       ]
     },
@@ -217,6 +231,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "ft", "'", "LF" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "英尺" ]
         }
       ]
     },
@@ -283,6 +301,10 @@
         {
           "Culture": "sl-SI",
           "Abbreviations": [ "in", "\\\"", "In" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "英寸" ]
         }
       ]
     },
