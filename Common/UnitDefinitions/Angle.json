@@ -53,6 +53,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "弧度" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "rad" ]
         }
       ]
     },
@@ -106,6 +110,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "角度" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "°", "deg" ]
         }
       ]
     },
@@ -182,6 +190,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "梯度" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "grad" ]
         }
       ]
     },

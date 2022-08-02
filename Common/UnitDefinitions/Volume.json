@@ -57,6 +57,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "升" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "l", "L" ]
         }
       ]
     },
@@ -110,6 +114,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方米" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "m³", "m3" ]
         }
       ]
     },
@@ -162,6 +170,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方千米" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "km³", "km3" ]
         }
       ]
     },
@@ -214,6 +226,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方分米" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "dm³", "dm3" ]
         }
       ]
     },
@@ -266,6 +282,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方厘米" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "cm³", "cm3" ]
         }
       ]
     },
@@ -318,6 +338,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方毫米" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "mm³", "mm3" ]
         }
       ]
     },
@@ -386,6 +410,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方英里" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         }
       ]
     },
@@ -438,6 +466,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方码" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         }
       ]
     },
@@ -491,6 +523,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方英尺" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         }
       ]
     },
@@ -543,6 +579,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "立方英寸" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         }
       ]
     },
@@ -857,6 +897,10 @@
         {
           "Culture": "zh-CN",
           "Abbreviations": [ "英畝英呎" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
         }
       ]
     }
