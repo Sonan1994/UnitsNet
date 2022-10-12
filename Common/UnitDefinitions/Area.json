@@ -62,6 +62,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "km²", "km2" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "km²", "km2" ]
         }
       ]
     },
@@ -120,6 +124,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "m²", "m2" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "m²", "m2" ]
         }
       ]
@@ -180,6 +188,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "dm²", "dm2" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "dm²", "dm2" ]
         }
       ]
     },
@@ -239,6 +251,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "cm²", "cm2" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "cm²", "cm2" ]
         }
       ]
     },
@@ -297,6 +313,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "mm²", "mm2" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "mm²", "mm2" ]
         }
       ]
@@ -376,6 +396,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "mi²", "mi2", "sq. mi.", "sq mi" ]
         }
       ]
     },
@@ -435,6 +459,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "yd²", "yd2", "sq. yd.", "sq yd", "SY" ]
         }
       ]
     },
@@ -493,6 +521,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "ft²", "ft2", "SF", "sq. ft.", "sq ft" ]
         }
       ]
@@ -568,6 +600,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "in²", "in2", "sq. in.", "sq in" ]
         }
       ]
     },
@@ -623,6 +659,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "ac", "acres", "acre" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "ac", "acres", "acre" ]
         }
       ]
@@ -680,6 +720,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "ha", "hectares", "hectare" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "ha", "hectares", "hectare" ]
         }
       ]
     },
@@ -735,6 +779,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "a", "ares", "are" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "a", "ares", "are" ]
         }
       ]

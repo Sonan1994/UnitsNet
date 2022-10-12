@@ -115,6 +115,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "d", "days" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "d", "days" ]
         }
       ]
     },
@@ -174,6 +178,10 @@
         {
           "Culture": "pl-PL",
           "Abbreviations": [ "h", "hr", "hours" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "h", "hr", "hours" ]
         }
       ]
     },
@@ -232,6 +240,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "min", "minutes" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "min", "minutes" ]
         }
       ]
@@ -293,6 +305,10 @@
         },
         {
           "Culture": "pl-PL",
+          "Abbreviations": [ "s", "sec", "seconds" ]
+        },
+        {
+          "Culture": "el-GR",
           "Abbreviations": [ "s", "sec", "seconds" ]
         }
       ]
