@@ -65,6 +65,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "l", "L" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "l" ]
         }
       ]
     },
@@ -126,6 +130,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "m³", "m3" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "m³" ]
         }
       ]
     },
@@ -186,6 +194,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "km³", "km3" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "km³" ]
         }
       ]
     },
@@ -246,6 +258,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "dm³", "dm3" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "dm³" ]
         }
       ]
     },
@@ -306,6 +322,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "cm³", "cm3" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "cm³" ]
         }
       ]
     },
@@ -366,6 +386,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "mm³", "mm3" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "mm³" ]
         }
       ]
     },
@@ -442,6 +466,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "mi³", "mi3", "cu. mi.", "cu mi" ]
         }
       ]
     },
@@ -501,6 +529,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "yd³", "yd3", "cu. yd.", "cu yd", "CY" ]
         }
       ]
@@ -563,6 +595,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "ft³", "ft3", "CF", "cu. ft.", "cu ft" ]
         }
       ]
     },
@@ -622,6 +658,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "in³", "in3", "cu. in.", "cu in" ]
         }
       ]
@@ -944,6 +984,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "AF", "AC-FT", "ac-ft" ]
         }
       ]

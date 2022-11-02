@@ -79,6 +79,11 @@
           "Culture": "el-GR",
           "Abbreviations": [ "g" ],
           "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "g" ],
+          "AbbreviationsWithPrefixes": [ "ng", "mcg", "mg", "cg", "dg", "dag", "hg", "kg" ]
         }
       ]
     },
@@ -143,6 +148,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "t" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "t" ]
         }
       ]
@@ -251,6 +260,10 @@
         {
           "Culture": "el-GR",
           "Abbreviations": [ "lb" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "lb" ]
         }
       ]
     },
@@ -315,6 +328,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "oz" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "oz" ]
         }
       ]
@@ -414,6 +431,10 @@
         },
         {
           "Culture": "el-GR",
+          "Abbreviations": [ "cwt" ]
+        },
+        {
+          "Culture": "cs-CZ",
           "Abbreviations": [ "cwt" ]
         }
       ]
