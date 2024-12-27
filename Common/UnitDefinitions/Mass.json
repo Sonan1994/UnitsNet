@@ -174,6 +174,54 @@
         {
           "Culture": "ru-RU",
           "Abbreviations": [ "тонна малая" ]
+        },
+        {
+          "Culture": "de-DE",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "fr-FR",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "short tn" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "short tn" ]
         }
       ]
     },
@@ -195,6 +243,54 @@
         {
           "Culture": "ru-RU",
           "Abbreviations": [ "тонна большая" ]
+        },
+        {
+          "Culture": "de-DE",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "fr-FR",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "es-ES_tradnl",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "it-IT",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "ko-KR",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "hu-HU",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "sr-Latn-RS",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "sl-SI",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "zh-CN",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "pl-PL",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "el-GR",
+          "Abbreviations": [ "long tn" ]
+        },
+        {
+          "Culture": "cs-CZ",
+          "Abbreviations": [ "long tn" ]
         }
       ]
     },
